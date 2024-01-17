@@ -4,11 +4,16 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 
 ## Figure Drawing 1
 
-[] [💵 Figure Drawing Fundamentals (Proko Premium)](https://www.proko.com/figure-drawing-fundamentals-course/)
+Basics
+* [Proko](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
 
-[] [🆓 Proko](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
+Follow-ups
+* [Ethan Becker's alternative bean](https://www.youtube.com/watch?v=iLIjD-5AgWU)
+* [Michel Hampton's gesture](https://www.youtube.com/watch?v=l3gV2vniKhA&t=615s)
 
-> [] Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
+Challenge: 30 days of gesture sessions
+* [Gesture Drawing Practice | 20 and 40 sec. poses](https://www.youtube.com/watch?v=biT46ugaXmc&t=2s)
+* [Gesture Drawing | Tips for Expressive and Dynamic Poses](https://www.youtube.com/watch?v=D2gOtDcb8sc&t=215s)
 
 ## Perspective 1
 
@@ -47,6 +52,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 [] [💵 The Frank Reilly Drawing Method, Frank Reilly](https://www.nma.art/courses/the-frank-reilly-drawing-method/)
 
 > [] [Ahmed Aldoori's 100 head challenge](https://www.youtube.com/watch?v=0A_kQsxeeTE), [heads are here](https://www.pinterest.com/aaldoori/portrait/)
+> [] [Alfie Berger's loomis template](https://www.youtube.com/watch?v=MaI7bCVUNqM)
 
 ## Perspective 2
 
