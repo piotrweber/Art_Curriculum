@@ -1,4 +1,4 @@
-Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) that I'm trying to refine for my own tastes
+Art curriculum based on this [image](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) that I'm trying to refine for my own tastes
 
 # Term 1
 
