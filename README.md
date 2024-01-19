@@ -5,7 +5,7 @@ Art curriculum based on [Radiorunner's curriculum for the solo artist](https://w
 ## Figure Drawing 1
 
 Basics
-* [Proko](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
+* [Proko Figure Drawing Fundamentals Series](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
 
 Follow-ups
 * [Ethan Becker's alternative bean](https://www.youtube.com/watch?v=iLIjD-5AgWU)
