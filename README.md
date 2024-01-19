@@ -51,7 +51,9 @@ Challenge: 30 days of gesture sessions
 
 [] [💵 The Frank Reilly Drawing Method, Frank Reilly](https://www.nma.art/courses/the-frank-reilly-drawing-method/)
 
-> [] [Ahmed Aldoori's 100 head challenge](https://www.youtube.com/watch?v=0A_kQsxeeTE), [heads are here](https://www.pinterest.com/aaldoori/portrait/)
+> [] [Ahmed Aldoori's 100 head challenge](https://www.youtube.com/watch?v=0A_kQsxeeTE)
+* [References](https://www.pinterest.com/aaldoori/portrait/)
+* [Interesting faces](https://lumpen.agency/all)
 > [] [Alfie Berger's loomis template](https://www.youtube.com/watch?v=MaI7bCVUNqM)
 
 ## Perspective 2
