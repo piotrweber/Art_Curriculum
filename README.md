@@ -1,4 +1,4 @@
-Art curriculum based on [Radiorunner's curricuum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) that I'm trying to refine for my own tastes
+Art curriculum based on [Radiorunner's curriculum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) that I'm trying to refine for my own tastes
 
 # Term 1
 
