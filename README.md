@@ -14,8 +14,7 @@ Follow-ups
 Challenge: 30 days of gesture sessions
 * [Gesture Drawing Practice | 20 and 40 sec. poses](https://www.youtube.com/watch?v=biT46ugaXmc&t=2s)
 * [Gesture Drawing | Tips for Expressive and Dynamic Poses](https://www.youtube.com/watch?v=D2gOtDcb8sc&t=215s)
-* [Figure Drawing Poses [002] - Standing & Sitting
-](https://www.youtube.com/watch?v=RMOEYnnTsZ8)
+* Playlist with 26 videos: [JookpubStock - Figure Drawing - Season 1](https://www.youtube.com/playlist?list=PLDeXS3qie7LXaE-sQ1a1WNqHeJocKd63P)
 
 ## Perspective 1
 
