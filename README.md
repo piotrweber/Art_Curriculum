@@ -1,5 +1,13 @@
 Art curriculum based on [Radiorunner's curriculum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) that I'm trying to refine for my own tastes
 
+# Intro
+* Free resources
+* Don't worry about tools
+
+## Posture
+* Add resources for posture 
+
+
 # Term 1
 
 ## Figure Drawing 1
@@ -81,3 +89,21 @@ Challenge: 30 days of gesture sessions
 a. draw the gesture of a reference.
 b. mannequinize it.
 c. draw a new, exaggerated gesture based on mannequin
+
+# Term 10
+
+## Inking
+### Basics
+* [HOW TO INK](https://www.youtube.com/watch?v=MsfOCL3Ae9Y&t=4s)
+
+### Traditional Line drills
+* Paolo Rivera's [Inking demo](https://www.youtube.com/watch?v=7biI9qGKYD4&t=2933s)
+* [DRAWING 101 - Supplemental Lesson - Brush Handling and Alex Raymond Stroke Sheets](https://www.youtube.com/watch?v=JarVoGQmvOw&t=1900s)
+* [HOW TO Draw with PEN AND INK Step By Step Beginners Guide Use different art tools for inking Tips](https://www.youtube.com/watch?v=0BLZILnBKrs&t=1687s)
+
+### Digital line drills
+* [Clean Line Art! Digital Inking Tips
+](https://www.youtube.com/watch?v=NBE-RTFkXDk&t=1s)
+* [Big Inking Mistakes (And How to Fix Them)
+](https://www.youtube.com/watch?v=ri3KJ72xmYE&t=247s)
+
