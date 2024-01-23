@@ -107,3 +107,30 @@ c. draw a new, exaggerated gesture based on mannequin
 * [Big Inking Mistakes (And How to Fix Them)
 ](https://www.youtube.com/watch?v=ri3KJ72xmYE&t=247s)
 
+### High to mid resoslution pencils with original inks
+
+#### Ryan Ottley
+* [page 1](https://www.deviantart.com/ryanottley/art/INV83-HI-res-pencil-for-INKING-264001808)
+* [page 2](https://www.deviantart.com/ryanottley/art/INV88-page-11-pencil-to-ink-process-283067974)
+* [page 3](https://www.deviantart.com/ryanottley/art/Page-4-from-HAUNT-5-152283544)
+* [page 4](https://www.deviantart.com/ryanottley/art/Invincible-77-cover-process-195742300)
+* [Page 5](https://www.deviantart.com/ryanottley/art/There-goes-Iguana-chick-54051196)
+* [Page 6](https://www.deviantart.com/ryanottley/art/Angstrom-breaks-an-arm-35917711)
+* [Page 7](https://www.deviantart.com/ryanottley/art/Invincible-48-page-19-79057784)
+* [Page 8](https://www.deviantart.com/ryanottley/art/Komodo-VS-Duplikate-53783445)
+* [Page 9](https://www.deviantart.com/ryanottley/art/Invincible-33-page-6-Dinos-35722291)
+
+#### Wilfredo Torres
+* [Frame 1](https://www.instagram.com/p/BXTIvGeHuLo/)
+* Page 1 [pencils](https://www.instagram.com/p/CgfyAuOMQad/) and [inks](https://www.instagram.com/p/CgkEgBELfWS/)
+* Frame 2 [pencils](https://www.instagram.com/p/BbzXIwhn7hp/) and [inks](https://www.instagram.com/p/BcLQRzhn8ne/)
+
+### Jerome Opeña
+* [Frame 1](https://www.instagram.com/p/BZejNiBH_eF/)
+* [Frame 2](https://www.instagram.com/p/BgRtflpFdKe/)
+* [Frame 3](https://www.instagram.com/p/BnokXy9HMgY/)
+
+### Various, Unknowns
+* [Pinup](https://i.pinimg.com/originals/24/e6/84/24e684c02237e40654401d71de95a7c3.jpg)
+
+
