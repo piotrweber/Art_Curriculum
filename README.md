@@ -35,14 +35,13 @@ Challenge: 30 days of gesture sessions
 
 ## Composition and storytelling 1
 
- [] [🆓 Aaron Blaise: methods for pleasing compositions](https://www.youtube.com/watch?v=dOMRWxo0ixo)
+Basics
+ * [Aaron Blaise: methods for pleasing compositions](https://www.youtube.com/watch?v=dOMRWxo0ixo)
+ * [[ModernDayJames: Composition 1](https://www.youtube.com/watch?v=wg-So3ElA8g)
+ * [How To Actually Practice Composition As A Beginner](https://www.youtube.com/watch?v=2NbGy2cMEFg&list=WL&index=6&t=554s)
 
- [] [🆓 ModernDayJames: Composition 1](https://www.youtube.com/watch?v=wg-So3ElA8g)
-
- [] [🆓 Sycra: Effective composition using shapes](https://www.youtube.com/watch?v=SNmwQumlvbQ)
-
-> [] [Watch Sycra's video about iterative drawing and iterate on 5 compositions, 10x each](https://www.youtube.com/watch?v=k0ufz75UvHs)
-> [] Thumbnail 50 favorite movie scenes from [film-grab](www.filmgrab.com)
+ Challenge
+ * Thumbnail 50 favorite movie scenes from [film-grab](www.filmgrab.com)
 
 # Term 2
 
