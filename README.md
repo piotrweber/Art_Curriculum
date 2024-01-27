@@ -37,12 +37,22 @@ Challenge: 30 days of gesture sessions
 
 Basics
  * [Aaron Blaise: methods for pleasing compositions](https://www.youtube.com/watch?v=dOMRWxo0ixo)
- * [[ModernDayJames: Composition 1](https://www.youtube.com/watch?v=wg-So3ElA8g)
+ * [ModernDayJames: Composition 1](https://www.youtube.com/watch?v=wg-So3ElA8g)
  * [How To Actually Practice Composition As A Beginner](https://www.youtube.com/watch?v=2NbGy2cMEFg&list=WL&index=6&t=554s)
 
- Challenge
- * Thumbnail 50 favorite movie scenes from [film-grab](www.filmgrab.com)
+Deep-dives: composition in cinema
+* [Spielberg's composition in Riders Of The Lost Ark](https://www.youtube.com/watch?v=ItbCLh4Auoo)
+* [How Spielberg Directs Your Attention](https://www.youtube.com/watch?v=2cWk-gkcAWM&t=41s)
+* [Damián Szifrón's composition in Wild Tales](https://www.youtube.com/watch?v=1gAk3BTt6YE&t=649s)
+* [Woody Allen's composition](https://www.youtube.com/watch?v=aAx51DiicRE)
+* [Composition In Storytelling](https://www.youtube.com/watch?v=CvLQJReDhic)
 
+ Challenge: Thumbnail 50 movie scenes
+ * [The Master](https://www.youtube.com/watch?v=9-e8QoJf6NU)
+ * [Branagh's Belfast](https://www.youtube.com/watch?v=hx_BWy0ylHo)
+ * [Composition In Storytelling](https://www.youtube.com/watch?v=CvLQJReDhic)
+
+ 
 # Term 2
 
 ## Anatomy 1 - The Head
