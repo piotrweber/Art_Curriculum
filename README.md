@@ -27,11 +27,11 @@ Challenge: 30 days of gesture drawings
 
 ## Perspective I (week 5 – 8)
 
-### Basics
+Basics
 * [Drawabox Lessons 0-3](https://drawabox.com/lesson/0), [all lessons](https://docs.google.com/spreadsheets/d/1R4msWQRk4g-fSlJ8Kn6N9QSarws7DAMm3ZKqTgkgTmA/edit#gid=0)
 * [Playlist: perspective drawing](https://www.youtube.com/watch?v=R60e9_ofV68&list=PLFi40-2H35w7wgPgxyC2TY_rXnrLtBFWr)
 
-### Challenges
+Challenges
 * [250 box challenge](https://drawabox.com/lesson/250boxes)
 * [250 cylinder challenge](https://drawabox.com/lesson/250cylinders)
 
