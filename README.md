@@ -39,6 +39,8 @@ Basics
  * [Aaron Blaise: methods for pleasing compositions](https://www.youtube.com/watch?v=dOMRWxo0ixo)
  * [ModernDayJames: Composition 1](https://www.youtube.com/watch?v=wg-So3ElA8g)
  * [How To Actually Practice Composition As A Beginner](https://www.youtube.com/watch?v=2NbGy2cMEFg&list=WL&index=6&t=554s)
+ * [Keyframe Illustration: These Work When You Run Out Of Ideas...](https://www.youtube.com/watch?v=bUXO7yBmKjI)
+
 
 Deep-dives: composition in cinema
 * [Spielberg's composition in Riders Of The Lost Ark](https://www.youtube.com/watch?v=ItbCLh4Auoo)
@@ -104,6 +106,7 @@ c. draw a new, exaggerated gesture based on mannequin
 ## Inking
 ### Basics
 * [HOW TO INK](https://www.youtube.com/watch?v=MsfOCL3Ae9Y&t=4s)
+* [Inking tools](https://www.youtube.com/watch?v=cVT1CVKADIE)
 
 ### Traditional Line drills
 * Paolo Rivera's [Inking demo](https://www.youtube.com/watch?v=7biI9qGKYD4&t=2933s)
