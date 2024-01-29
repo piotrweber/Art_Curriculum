@@ -1,8 +1,8 @@
 My take on [Radiorunner's curriculum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) based only on free resources.
+The goal of this guide is to provide a structure for self-directed learning and assumes that you have enough motivatio to follow it. If you want to swap a unit or term, feel free to do so.
 
 # Intro
 ## Setup
-* [Hold your graphics pen vertically](https://www.youtube.com/watch?v=OwqLzyusElM&t=320s)
 * [Draw from your shoulder, not from your wrist](https://www.youtube.com/watch?v=0_AdsK8x9Lw)
 * Set up calendar alerts or write down your dates to stick to the schedule 
 
