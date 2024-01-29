@@ -1,7 +1,7 @@
 My take on [Radiorunner's curriculum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) based only on free resources.
 The goal of this guide is to provide a structure for self-directed learning and assumes that you have enough motivatio to follow it. If you want to swap a unit or term, feel free to do so.
 
-### DISCLAIMER: The guide is work-in-progress, therefore very messy beyond Term 1. I'm cleaning it up while using it. If you are making good progress feel free to fork it or refer to the [original curriculum](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png).
+### DISCLAIMER: The guide is work-in-progress and may have missing parts or be messy. I'm cleaning it up while using it. If you are making good progress feel free to fork it or refer to the [original curriculum](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png).
 
 # Intro
 ## Setup
@@ -55,6 +55,7 @@ Themes
 3. scale, repetition, chaos
 4. order, tension, space
   
+<!---
 # Term 2 (month 4 - 7)
 
 ## Anatomy 1 - The Head (week 1 - 4)
@@ -184,5 +185,4 @@ Challenge:
 
 ### Various, Unknowns
 * [Pinup](https://i.pinimg.com/originals/24/e6/84/24e684c02237e40654401d71de95a7c3.jpg)
-
-
+--->
