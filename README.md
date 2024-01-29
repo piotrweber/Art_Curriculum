@@ -1,11 +1,10 @@
-Art curriculum based on [Radiorunner's curriculum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) that I'm trying to refine for my own tastes
+Art curriculum based on [Radiorunner's curriculum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) that I'm trying to refine for my own tastes.
+
+The curriculum is based on free reserouces.
 
 # Intro
-* Free resources
-* Don't worry about tools
-
-## Posture
-* Add resources for posture 
+* Digial tabled: how to hold your pen
+* Draw from your elbow, not your wrist:
 
 
 # Term 1
@@ -35,26 +34,24 @@ Challenge: 30 days of gesture sessions
 
 ## Composition and storytelling 1
 
-Basics
- * [Aaron Blaise: methods for pleasing compositions](https://www.youtube.com/watch?v=dOMRWxo0ixo)
- * [ModernDayJames: Composition 1](https://www.youtube.com/watch?v=wg-So3ElA8g)
- * [How To Actually Practice Composition As A Beginner](https://www.youtube.com/watch?v=2NbGy2cMEFg&list=WL&index=6&t=554s)
- * [Keyframe Illustration: These Work When You Run Out Of Ideas...](https://www.youtube.com/watch?v=bUXO7yBmKjI)
+### Basics
+* [The Gestalt Principles | Basics for Beginners](https://www.youtube.com/watch?v=FryaH599ec0)
+* [Elements of Design: Point, Line, and Shape](https://www.youtube.com/watch?v=hMzVKFLkZSw)
 
+### Challenge: 36 sketches
+Use each of the elements (e.g. point) to draw 2 composition for each theme (e.g. symmetry). Finish all themese before changing element. For example: use only points to express symmetry (2 sketches), asymmetry (2 sketches) and emphasis (2 sketches), before moving to the next theme group (2). After completing all 12 themes, move to the next element (line). [Final result](https://sdccdesign100margaretpadilla.blogspot.com/2014/11/visual-principles-step-1-points-lines.html)
 
-Deep-dives: composition in cinema
-* [Spielberg's composition in Riders Of The Lost Ark](https://www.youtube.com/watch?v=ItbCLh4Auoo)
-* [How Spielberg Directs Your Attention](https://www.youtube.com/watch?v=2cWk-gkcAWM&t=41s)
-* [Damián Szifrón's composition in Wild Tales](https://www.youtube.com/watch?v=1gAk3BTt6YE&t=649s)
-* [Woody Allen's composition](https://www.youtube.com/watch?v=aAx51DiicRE)
-* [Composition In Storytelling](https://www.youtube.com/watch?v=CvLQJReDhic)
+Elements
+* Point
+* Line
+* Plane
 
- Challenge: Thumbnail 50 movie scenes
- * [The Master](https://www.youtube.com/watch?v=9-e8QoJf6NU)
- * [Branagh's Belfast](https://www.youtube.com/watch?v=hx_BWy0ylHo)
- * [Composition In Storytelling](https://www.youtube.com/watch?v=CvLQJReDhic)
-
- 
+Themes
+1. symmetry, asymmetry, emphasis
+2. rhythm, positive/negative space, unity
+3. scale, repetition, chaos
+4. order, tension, space
+  
 # Term 2
 
 ## Anatomy 1 - The Head
@@ -100,6 +97,46 @@ Deep-dives: composition in cinema
 a. draw the gesture of a reference.
 b. mannequinize it.
 c. draw a new, exaggerated gesture based on mannequin
+
+
+
+
+
+# Term 6
+
+## Composition and storytellng 3
+
+### Basics
+ * [Aaron Blaise: methods for pleasing compositions](https://www.youtube.com/watch?v=dOMRWxo0ixo)
+ * [ModernDayJames: Composition 1](https://www.youtube.com/watch?v=wg-So3ElA8g)
+ * [Effective Composition Using Shapes](https://www.youtube.com/watch?v=1wRXlYNmb2s)
+ * [Understanding Composition]([https://www.youtube.com/watch?v=2NbGy2cMEFg&list=WL&index=6&t=554s](https://www.youtube.com/watch?v=O8i7OKbWmRM)
+* [Keyframe Illustration: These Work When You Run Out Of Ideas...](https://www.youtube.com/watch?v=bUXO7yBmKjI)
+
+Deep-dives: composition in cinema
+* [Spielberg's composition in Riders Of The Lost Ark](https://www.youtube.com/watch?v=ItbCLh4Auoo)
+* [How Spielberg Directs Your Attention](https://www.youtube.com/watch?v=2cWk-gkcAWM&t=41s)
+* [Damián Szifrón's composition in Wild Tales](https://www.youtube.com/watch?v=1gAk3BTt6YE&t=649s)
+* [Woody Allen's composition](https://www.youtube.com/watch?v=aAx51DiicRE)
+* [Composition In Storytelling](https://www.youtube.com/watch?v=CvLQJReDhic)
+
+Challenge: 
+* Go through the pages of this workbook:
+  * https://forum.svslearn.com/topic/1137/my-creative-composition-workbook-and-exercises
+  * https://forum.svslearn.com/topic/7430/creative-composition-class/19?lang=en-GB
+
+ Challenge: Thumbnail 50 movie scenes
+ * [The Master](https://www.youtube.com/watch?v=9-e8QoJf6NU)
+ * [Branagh's Belfast](https://www.youtube.com/watch?v=hx_BWy0ylHo)
+ * [Composition In Storytelling](https://www.youtube.com/watch?v=CvLQJReDhic)
+
+# Term 9
+## Compositon and storytelling 3
+
+* [Drawing Exercises: Monochromatic Compositions](https://www.youtube.com/watch?v=2cbjtyl0Few)
+
+# Challenge
+* Draw 50 sketehes of a tea set: https://www.deviantart.com/sct-graphics/art/COMPOSITION-BUILDING-EXERCISE-282924355
 
 # Term 10
 
