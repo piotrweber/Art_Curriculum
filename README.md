@@ -3,7 +3,7 @@ My take on [Radiorunner's curriculum for the solo artist](https://www.reddit.com
 # Intro
 ## Setup
 * [Hold your graphics pen vertically](https://www.youtube.com/watch?v=OwqLzyusElM&t=320s)
-* [Draw from your elbow, not from your wrist](https://www.youtube.com/watch?v=6c6w1xx3VzA)
+* [Draw from your shoulder, not from your wrist](https://www.youtube.com/watch?v=0_AdsK8x9Lw)
 * Set up calendar alerts or write down your dates to stick to the schedule 
 
 # Term 1 (month 1 - 3)
