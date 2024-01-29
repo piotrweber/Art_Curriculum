@@ -1,7 +1,7 @@
 My take on [Radiorunner's curriculum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) based only on free resources.
 The goal of this guide is to provide a structure for self-directed learning and assumes that you have enough motivatio to follow it. If you want to swap a unit or term, feel free to do so.
 
-### DISCLAIMER: The guide is work-in-progress, therefore very messy beyond Term 1. I'm cleaning it up while using it. If you are making good progress feel frea to fork this file or refer to the [original curriculum](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png), please
+### DISCLAIMER: The guide is work-in-progress, therefore very messy beyond Term 1. I'm cleaning it up while using it. If you are making good progress feel free to fork it or refer to the [original curriculum](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png).
 
 # Intro
 ## Setup
