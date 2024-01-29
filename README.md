@@ -1,29 +1,29 @@
-Art curriculum based on [Radiorunner's curriculum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) that I'm trying to refine for my own tastes.
-
-The curriculum is based on free reserouces.
+My take on [Radiorunner's curriculum for the solo artist](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7ns7su264gp31.png) based only on free resources.
 
 # Intro
-* Digial tabled: how to hold your pen
-* Draw from your elbow, not your wrist:
+## Setup
+* [Hold your graphics pen vertically](https://www.youtube.com/watch?v=OwqLzyusElM&t=320s)
+* [Draw from your elbow, not from your wrist](https://www.youtube.com/watch?v=6c6w1xx3VzA)
+* Set up calendar alerts or write down your dates to stick to the schedule 
 
+# Term 1 (month 1 - 3)
+Do the gesture challenge while following the tutorial. Focus on loosening your lines, gesture and flow.
 
-# Term 1
+## Figure Drawing I (week 1 — 4)
 
-## Figure Drawing 1
-
-Tutorial
+Basics
 * [Proko Figure Drawing Fundamentals Series](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
 
-Drill-ins
+Deep-dives
 * [Ethan Becker's alternative bean](https://www.youtube.com/watch?v=iLIjD-5AgWU)
 * [Michel Hampton's gesture](https://www.youtube.com/watch?v=l3gV2vniKhA&t=615s)
 
-Challenge: 30 days of gesture sessions
+Challenge: 30 days of gesture drawings
 * [Gesture Drawing Practice | 20 and 40 sec. poses](https://www.youtube.com/watch?v=biT46ugaXmc&t=2s)
 * [Gesture Drawing | Tips for Expressive and Dynamic Poses](https://www.youtube.com/watch?v=D2gOtDcb8sc&t=215s)
 * Playlist with 26 videos: [JookpubStock - Figure Drawing - Season 1](https://www.youtube.com/playlist?list=PLDeXS3qie7LXaE-sQ1a1WNqHeJocKd63P)
 
-## Perspective 1
+## Perspective I (week 5 – 8)
 
  [] [🆓 Drawabox Lessons 0-3](https://drawabox.com/lesson/0), [all lessons](https://docs.google.com/spreadsheets/d/1R4msWQRk4g-fSlJ8Kn6N9QSarws7DAMm3ZKqTgkgTmA/edit#gid=0)
 
@@ -32,7 +32,7 @@ Challenge: 30 days of gesture sessions
 > [] [250 box challenge](https://drawabox.com/lesson/250boxes)
 > [] [250 cylinder challenge](https://drawabox.com/lesson/250cylinders)
 
-## Composition and storytelling 1
+## Composition and storytelling I (week 9 - 12)
 
 ### Basics
 * [The Gestalt Principles | Basics for Beginners](https://www.youtube.com/watch?v=FryaH599ec0)
@@ -52,9 +52,9 @@ Themes
 3. scale, repetition, chaos
 4. order, tension, space
   
-# Term 2
+# Term 2 (month 4 - 7)
 
-## Anatomy 1 - The Head
+## Anatomy 1 - The Head (week 1 - 4)
 
 [] [🆓 Understanding & Painting the head, Marco Bucci](https://marcobucciartstore.com/products/understanding-and-painting-the-head)
 
